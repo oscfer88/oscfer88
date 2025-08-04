@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Postdoctoral Researcher at the Centre for Human Brain Health, University of Birmingham (United Kingdom) working in the field of neurophysiology and congnitive neuroscience. I am interested in cognition (e.g., vision, attention, predictions), open science, programming and data science in general. My work makes uses of advances neurophysiological techniques (EEG, MEG, TMS, eye-tracking) and data analysis methods (time-frequency, connectivity, statistics) to better understand how the human brain and mind work.
+I am a Lecturer in Cognitive NEuroscience at the University of Surrey (United Kingdom) working in the field of neurophysiology and congnitive psychology. I am interested in attention, predictions and consciousness, as well as open science, programming and data science in general. My work makes uses of advances neuroscientific techniques (EEG, MEG, TMS, eye-tracking) and cutting-edge data analysis methods (machine learning, time-frequency, connectivity, RIFT) to better understand how the human brain and mind work.
 
 ## 🔭 I’m currently working on:
 - **Neuronal effects of predictions based on statistical learning on visual attention** ([repository](https://github.com/oscfer88/dSL_RIFT))
