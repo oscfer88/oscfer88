@@ -12,7 +12,6 @@ I am a Lecturer in Cognitive NEuroscience at the University of Surrey (United Ki
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/oscar-ferrante-700880250/)
-- [Twitter](https://twitter.com/ferrante_oscar)
 
 ## :newspaper: To see my publications:
 - [GoogleScholar](https://scholar.google.it/citations?user=p_D77I0AAAAJ&hl=en)
